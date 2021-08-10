@@ -11,6 +11,7 @@ Mini bir portfolio uygulaması.
 
 * Dinamik Url yapısı için React-Router-Dom kullanılmıştır.
 * Dark Mode vardır.
+* Responsive tasarımdır.
 * Butonlar ve Kapsayıcı Styled-Component ile oluşturulmuştur.
 
 ## Proje Nasıl Çalıştırılır
